@@ -1,0 +1,2 @@
+age,menopause,tumor_size,inv_nodes,node_caps,breast,breast_quad,irradiat,deg_malig,Prediction,timestamp
+20-29,ge40,0-4,0-2,?,left,central,no,0,No Recurrence,2025-08-14 14:15:37.031027
