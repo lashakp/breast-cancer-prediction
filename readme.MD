@@ -37,8 +37,8 @@ Built with **Python**, **Scikit-learn**, **SMOTE**, and **Gradio** for an easy-t
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/lashakp/breast-cancer-prediction.git
+cd <breast-cancer-prediction>
 
 How It Works
 
